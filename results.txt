@@ -1,0 +1,21 @@
+font 1:
+test_4: 8 wrong
+test_5: 6 wrong
+test_6: 0 wrong
+test_7: 0 wrong
+----------------
+font 2:
+test_2: 5 wrong
+test_9: 1 wrong 
+test_10: 10 wrong
+test_11: 3 wrong
+test_12: 7 wrong
+test_13: 12 wrong
+test_14: 5 wrong
+test_15: 23 wrong
+test_16: 13 wrong
+---------
+font 3: 
+test_1 : 2 wrong
+test_3: 2 wrong
+test_8: 11wrong
